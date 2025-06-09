@@ -1,0 +1,62 @@
+.contenedor-responsivo {
+    max-width: 1080px;
+    padding: 0px !important;
+}
+.contenedor-responsivo.container-grid-flex {
+    margin: auto;
+}
+
+
+.\@container>div {
+    padding: 0px;
+}
+
+.\@container .flex.min-h-\[480px\].flex-col.gap-6.bg-cover.bg-center.bg-no-repeat.\@\[480px\]\:gap-8.\@\[480px\]\:rounded-xl.items-start.justify-end.px-4.pb-10.\@\[480px\]\:px-10 {
+    border-radius: 0px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.4) 100%), url("https://raw.githubusercontent.com/EmmanuelAguilarM/ZendraLiving/refs/heads/main/assets/images/png/0.png") !important;
+    height: 91vh;
+    background-position: center !important;
+    background-size: cover !important;
+    background-attachment: fixed;
+}
+
+
+
+/*===========================================================
+		N   O   S   O   T   R   O   S
+ ===========================================================*/
+
+#portada-nosotros {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.4) 100%), url("https://raw.githubusercontent.com/EmmanuelAguilarM/ZendraLiving/refs/heads/main/assets/images/png/5.png") !important;
+}
+.contenedor-responsivo.flex.flex-col.gap-10.px-4.py-10.\@container {
+  width: 100%;
+  max-width: 100%;
+  padding: 35px 0px !important;
+}
+
+.contenedor-responsivo.grid.grid-cols-\[repeat\(auto-fit\,minmax\(158px\,1fr\)\)\].gap-3.p-4 {
+  width: 100%;
+  margin: auto;
+  padding: 1.5rem 0px !important;
+}
+
+.contenedor-responsivo.flex.flex-col.gap-10.px-4.py-10.\@container .contendor-align > h1 {
+  margin-bottom: 1.5rem;
+}
+
+#portada-nosotros h1 {
+  line-height: 1;
+}
+
+.contendor-align {
+  max-width: 1080px;
+  margin: auto;
+  width: 100%;
+}
+
+.\@container.container-nosotros {
+  margin-bottom: 45px;
+}
+
+
